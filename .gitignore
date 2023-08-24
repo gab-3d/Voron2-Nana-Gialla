@@ -1,0 +1,11 @@
+/conf.old
+/oldprinter
+/printer-202*.cfg
+/telegram.conf
+/test.cfg
+/imgs
+*.zip
+*.bkp
+/backup/*.*
+/shaper/*.*
+
